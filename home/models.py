@@ -1,3 +1,6 @@
 from django.db import models
 
-# Create your models here.
+#Define our Seeds class 
+class Seeds(models.Model): 
+    gain = models.DecimalField()
+    irrigation = 
