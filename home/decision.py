@@ -7,9 +7,9 @@ header = ["WaterQuantity", "area", "Region", "Gain", "label"]
 
 """ This dataset will be read from an csv file using panda """
 training_data = [
-    ['lot',1000,'Setif',  100, 'Apple'],
-    ['little',1000,'Setif', 30, 'Apple'],
-    ['lot', 1000,'Setif', 100, 'Grape'],
+    ['lot',1000,'Setif',  100, 'cereals'],
+    ['little',1000,'Setif', 30, 'potatoes'],
+    ['lot', 1000,'Setif', 100, 'mais'],
     ['lot', 1000,'Setif', 10, 'Grape'],
     ['little', 1000,'Setif', 39, 'Lemon'],
 ]
